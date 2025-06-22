@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coding-club-website/static/css/main.d1a0e74d.css",
+    "main.js": "/coding-club-website/static/js/main.b4e518cb.js",
+    "static/js/453.d18d2494.chunk.js": "/coding-club-website/static/js/453.d18d2494.chunk.js",
+    "index.html": "/coding-club-website/index.html",
+    "main.d1a0e74d.css.map": "/coding-club-website/static/css/main.d1a0e74d.css.map",
+    "main.b4e518cb.js.map": "/coding-club-website/static/js/main.b4e518cb.js.map",
+    "453.d18d2494.chunk.js.map": "/coding-club-website/static/js/453.d18d2494.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1a0e74d.css",
+    "static/js/main.b4e518cb.js"
+  ]
+}
