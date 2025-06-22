@@ -1,25 +1,15 @@
 {
-  "short_name": "Coding Club",
-  "name": "Coding Club Website",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "files": {
+    "main.css": "/coding-club-website/static/css/main.d1a0e74d.css",
+    "main.js": "/coding-club-website/static/js/main.b4e518cb.js",
+    "static/js/453.d18d2494.chunk.js": "/coding-club-website/static/js/453.d18d2494.chunk.js",
+    "index.html": "/coding-club-website/index.html",
+    "main.d1a0e74d.css.map": "/coding-club-website/static/css/main.d1a0e74d.css.map",
+    "main.b4e518cb.js.map": "/coding-club-website/static/js/main.b4e518cb.js.map",
+    "453.d18d2494.chunk.js.map": "/coding-club-website/static/js/453.d18d2494.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1a0e74d.css",
+    "static/js/main.b4e518cb.js"
+  ]
 }
