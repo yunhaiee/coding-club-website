@@ -27,7 +27,7 @@ const activities = [
     audience: "All students in the school, regardless of prior coding experience.",
     mission: "Fostered a supportive learning environment and shared our knowledge, strengthening our community bonds.",
     images: [
-      'images/tutoring_session/the_codes.png',
+      'images/tutoring_session/The_Codes.png',
     ],
     source: 'Created by Yunha Lee (President)'
   },
