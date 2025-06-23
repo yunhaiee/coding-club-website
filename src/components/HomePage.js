@@ -27,7 +27,7 @@ const HomePage = () => {
         <div className="hero-visual">
           <div className="hero-image">
             <img 
-              src="images/daejeon science festival/Screenshot 2025-06-22 at 6.40.53 PM.png" 
+              src="images/daejeon science festival/Screenshot_2025-06-22_at_6.40.53_PM.png" 
               alt="Coding Club at Daejeon Science Festival" 
             />
           </div>
