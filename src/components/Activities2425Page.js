@@ -11,10 +11,10 @@ const activities = [
     audience: "Festival attendees, mainly children and families from the local community.",
     mission: "Gave back to the community by showing children how to use technology creatively and responsibly, inspiring the next generation of developers.",
     images: [
-      'images/daejeon_science_festival/Screenshot_2025-06-22_at_2.41.41_PM.png',
-      'images/daejeon_science_festival/Screenshot_2025-06-22_at_2.42.26_PM.png',
-      'images/daejeon_science_festival/Screenshot_2025-06-22_at_2.43.02_PM.png',
-      'images/daejeon_science_festival/Screenshot_2025-06-22_at_2.43.17_PM.png',
+      'images/daejeon science festival/Screenshot_2025-06-22_at_2.41.41_PM.png',
+      'images/daejeon science festival/Screenshot_2025-06-22_at_2.42.26_PM.png',
+      'images/daejeon science festival/Screenshot_2025-06-22_at_2.43.02_PM.png',
+      'images/daejeon science festival/Screenshot_2025-06-22_at_2.43.17_PM.png',
     ],
     source: 'Photos by Coding Club'
   },
@@ -27,7 +27,7 @@ const activities = [
     audience: "All students in the school, regardless of prior coding experience.",
     mission: "Fostered a supportive learning environment and shared our knowledge, strengthening our community bonds.",
     images: [
-      'images/tutoring_session/The_Codes.png',
+      'images/tutoring session/The_Codes.png',
     ],
     source: 'Created by Yunha Lee (President)'
   },
