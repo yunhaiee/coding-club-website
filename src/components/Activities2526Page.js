@@ -27,7 +27,7 @@ const activities = [
     audience: "All school community members interested in developing a competitive project for a science fair.",
     mission: "Foster a culture of innovation and excellence by informing students about competitions",
     images: [
-      '/images/science festival seminar/Opening-Ceremony.jpg'
+      'images/science festival seminar/Opening-Ceremony.jpg'
     ],
     source: {
       text: 'ISEF Partnership, Society for Science',
